@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1623338700 source:c:\users\ahmet\onedrive\desktop\prog_assign\main.cpp
+	<iostream>
+	"header.h"
+
+1623338003 c:\users\ahmet\onedrive\desktop\prog_assign\header.h
+
+1623343674 source:c:\users\ahmet\onedrive\desktop\prog_assign\classes.cpp
+	<iostream>
+	"header.h"
+
